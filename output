@@ -1,0 +1,65 @@
+How many number of customers do you want to input? 1
+****************
+Enter Account No: 90876
+Enter Account type: saving
+Enter Name: lokesh
+Enter Balance: 50000
+****************
+
+ **Banking System Application**
+1. Display all account details 
+ 2. Search by Account number
+ 3. Deposit the amount 
+ 4. Withdraw the amount 
+ 5.Exit 
+****************
+Enter your choice: 
+2 
+Enter account no. you want to search: 90876
+Account exists....
+
+ **Banking System Application**
+1. Display all account details 
+ 2. Search by Account number
+ 3. Deposit the amount 
+ 4. Withdraw the amount 
+ 5.Exit 
+****************
+Enter your choice: 
+4
+Enter Account No : 90876
+Enter the amount you want to withdraw: 
+200
+Balance after withdrawal: 49800
+
+ **Banking System Application**
+1. Display all account details 
+ 2. Search by Account number
+ 3. Deposit the amount 
+ 4. Withdraw the amount 
+ 5.Exit 
+****************
+Enter your choice: 
+1
+****************
+Name of account holder: lokesh
+Account no.: 90876
+Account type: saving
+Balance: 49800
+****************
+
+ **Banking System Application**
+1. Display all account details 
+ 2. Search by Account number
+ 3. Deposit the amount 
+ 4. Withdraw the amount 
+ 5.Exit 
+****************
+Enter your choice: 
+1
+****************
+Name of account holder: lokesh
+Account no.: 90876
+Account type: saving
+Balance: 49800
+****************
